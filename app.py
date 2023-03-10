@@ -33,7 +33,7 @@ def recommend(movie):
 
 
 st.title(':red[My Movie Recommendation Page]')
-st.title(':blue[-By Amandeep Thakur]')
+st.title(':red[-By Amandeep Thakur]')
 movies_list = movies['title'].values
 
 
